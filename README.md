@@ -13,7 +13,7 @@ Usage of SocialPhish for attacking targets without prior mutual consent is illeg
 ##### Usage:
 ```
 git clone https://github.com/Technokratik/TrackingFish.git
-cd SocialPhish
-chmod +x TrackingFish.sh
-./TrackingFish.sh
+cd TrackingFisf
+chmod +x trackingfish.sh
+./trackingfish.sh
 ```
